@@ -1,15 +1,22 @@
 # Emergency Vehicle Mobility Optimization
 Identify the movement patterns of emergency vehicles-ambulance, fire, and police-to highlight bottlenecks, high-response-time zones, and the routing paths that would be most efficient.
+
 Key Visualizations
+
 Response time vs. zone
+
 Hotspot delays
+
 Suggested optimized response routes
+
 Time-of-day movement comparison
+
 
 # I.Purpose
 
 
 It aims to hasten the timely arrival of emergency vehicles at scenes. This really cuts down on the length of time one waits for aid during life's hard moments. The project focuses much on police cars, other emphases being fire trucks and ambulances. It studied their regular motions in great detail. That type of approach allows them to fine-tune the regular paths these vehicles take. When the team surveyed the times and places of travel, they realized where the responses dragged along a bit too slow. They also realized locations clogged up by constant delays in traffic. Other than this, the project provides better routing to the vehicles to further guide them. To this end, emergency crews get keen ways to decide on the paths. In this way, the general trips turn out to be much shorter. This kind of incremental gain benefits public safety in the long term.
+
 
 # II.Technologies Used
 
@@ -94,6 +101,7 @@ Click on Map, then Background Maps, and select Tableau.
 Then, under Map Layers check the boxes for Streets, Terrain, and Labels.
 
 7. Chart and Graph Interactions
+   
 
 # IV. Usage
 
