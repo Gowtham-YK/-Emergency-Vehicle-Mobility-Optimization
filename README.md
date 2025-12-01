@@ -9,6 +9,7 @@ Time-of-day movement comparison
 # I.Purpose
 This project works to help emergency vehicles reach the scene faster. It really reduces how long folks end up waiting for assistance in tough spots. The effort centers mostly on police cars along with fire trucks and ambulances. It examines their daily movements in detail. That approach lets them refine the usual routes these vehicles take. When the team studies the places and times of travel, they identify areas where responses drag on too slowly. They also pinpoint spots jammed up by constant traffic delays. Beyond that, the project offers improved routes to guide the vehicles better. Emergency crews get these sharper ways to decide on paths. As a result, the overall trips turn out much shorter. Public safety benefits from these kinds of steady gains in the long run.
 
+
 # II.Technologies Used
 
   i. Tableau
@@ -16,6 +17,7 @@ This project works to help emergency vehicles reach the scene faster. It really 
  ii. CSV / Excel
  
 iii. Openstreet Map
+
 
 # III.Setup Instructions
 
@@ -90,6 +92,7 @@ Go to Map, then Background Maps, and select Tableau.
 Then select Map Layers and turn on Streets, Terrain, and Labels.
 
 # 7. Interact With Visuals
+
 
 # IV. Usage
 
