@@ -19,7 +19,7 @@ iii. Openstreet Map
 
 # 3.Setup Instructions
 
-1. Install Tableau
+# 1. Install Tableau
 
 Make sure you have one of the following installed:
 
@@ -27,7 +27,7 @@ Tableau Desktop (recommended)
 
 or Tableau Public (free)
 
-2. Prepare Your Dataset
+# 2. Prepare Your Dataset
 
 Ensure your emergency vehicle dataset (CSV/Excel) includes fields like:
 
@@ -45,7 +45,7 @@ Route or Trip ID (if available)
 
 You can place it anywhere on your system. Tableau will connect to it directly.
 
-3. Open the Tableau Workbook
+# 3. Open the Tableau Workbook
 
 Go to the project folder.
 
@@ -67,7 +67,7 @@ For Zone or Station Name, set it to:
 
 Geographic Role: Area Name or District (or leave it as string if not mapping).
 
-5. View the Dashboards
+# 5. View the Dashboards
 
 Open the dashboards included in the project, such as:
 
@@ -81,7 +81,7 @@ Time-of-Day Movement Comparison
 
 Each dashboard will automatically update based on your dataset.
 
-6. (Optional) Connect to OpenStreetMap
+# 6. (Optional) Connect to OpenStreetMap
 
 Tableau uses OpenStreetMap by default for background maps. If it doesn't appear:
 
@@ -89,13 +89,13 @@ Go to Map, then Background Maps, and select Tableau.
 
 Then select Map Layers and turn on Streets, Terrain, and Labels.
 
-7. Interact With Visuals
+# 7. Interact With Visuals
 
 # 4. Usage
 
 Follow these steps to use the Emergency Vehicle Mobility Optimization dashboard effectively:
 
-1. Load the Dataset
+# 1. Load the Dataset
 
 Open the Tableau workbook (.twbx file).
 
@@ -103,7 +103,7 @@ If prompted, reconnect your dataset (CSV/Excel) from Data Source.
 
 Tableau will refresh all sheets and dashboards automatically.
 
-2. Explore the Dashboards
+# 2. Explore the Dashboards
 
 The project includes several dashboards for different types of analysis:
 
@@ -137,7 +137,7 @@ Identify time periods with the most congestion or delays.
 
 This helps with shift planning and improving deployment.
 
-3. Apply Filters and Interactions
+# 3. Apply Filters and Interactions
 
 You can interact with the dashboards using:
 
@@ -149,7 +149,7 @@ You can interact with the dashboards using:
 
 These interactions help you focus on specific data segments.
 
-4. Export Reports
+# 4. Export Reports
 
 Tableau allows you to export:
 
@@ -160,7 +160,7 @@ Tableau allows you to export:
 
 Go to File and then Export to save reports for presentations or analysis.
 
-5. Update With New Data
+# 5. Update With New Data
 
 To analyze new emergency movement data:
 
